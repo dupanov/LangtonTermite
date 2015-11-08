@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="actor">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../GridWorldCode/gridworld/actor" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
